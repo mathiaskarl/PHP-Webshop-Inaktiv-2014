@@ -1,0 +1,21 @@
+#content_top {
+	width:		100%;
+	height:		53px;
+	background:	url('images/webshop/content_top.png') no-repeat !important;
+	}
+#content {
+	width:		100%;
+	height:		auto;
+	min-height: 650px;
+	background: url('images/webshop/content_bg.png') repeat-y !important;
+	}
+#content_bottom {
+	width:		100%;
+	height:		55px;
+	background: url('images/webshop/content_bottom.png') no-repeat !important;
+	}
+#postit_bottom {
+	width:		255px;
+	height:		229px !important;
+	background: url('images/postit_bottom2.png') no-repeat;
+}

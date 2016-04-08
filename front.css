@@ -1,0 +1,22 @@
+#content_top {
+	background:	url('images/content_top_front.png') no-repeat !important;
+	}
+#content {
+	background: url('images/content_bg_front.png') repeat-y !important;
+	}
+	#content_text {
+		display: none !important;
+	}
+	#content_splatter {
+	display: none !important;
+	}
+	#content_bottom {
+		background: url('images/content_bottom_front.png') no-repeat !important;
+		}
+		
+#page_footer {
+	display: none;
+	}
+#search_container {
+	display: none;
+}
